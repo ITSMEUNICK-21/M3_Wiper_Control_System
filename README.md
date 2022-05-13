@@ -23,4 +23,4 @@
 
 ## Feedback
 
-If you have any feedback or suggestions, please feel free to reach out to me at nikhilsureshhegde21@gmail.com
+If you have any queries or suggestions, please feel free to reach out to me at nikhilsureshhegde21@gmail.com
