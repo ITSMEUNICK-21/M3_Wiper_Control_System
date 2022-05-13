@@ -1,8 +1,6 @@
 # Description
 * Wiper control system designed uses STM32F407VG as the main controller, which senses the severity of rain or snow and helps in varying the speeds of wiper     accordingly without any manual intervention.
 
-# Requirements
-* 
 # Features
 * It can control wiper action without human intervention.
 * It is reliable and easy to configure.
@@ -12,17 +10,16 @@
 |HLR_ID|Description|Status|
 |:--:|:--:|:--:|
 |HLR_1|The Red LED is on to indicate the Ignition Key position at ACC |Implemented|
-|HLR_2||Implemented|
-|HLR_3||Implemented|
-|HLR_4||Future|
+|HLR_2|LEDs come on in desired pattern at set frequency replicating speed control of wiper arm|Implemented|
+|HLR_3|The Red LED is off to indicate the Ignition Key position at Lock|Implemented|
 
     
 # Lowlevel Requirements
 |HLR_ID|LLR_ID|Description|Status|
 |:--:|:--:|:--:|:--:|
-|HLR_1|LLR_01||Implemented|
-|HLR_2|LLR_01||Implemented|
-|HLR_3|LLR_01||Implemented|
+|HLR_2|LLR_01|LEDs come on in desired pattern at set frequency at 1 Hz(low speed)|Implemented|
+||LLR_02|LEDs come on in desired pattern at set frequency at 4 Hz(medium speed)|Implemented|
+||LLR_03|LEDs come on in desired pattern at set frequency at 8 Hz(high speed)|Implemented|
 
 
 # SWOT Analysis
