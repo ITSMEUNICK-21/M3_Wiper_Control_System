@@ -34,4 +34,7 @@
 
 # References
 
-* 
+* https://www.st.com/resource/en/datasheet/stm32f407vg.pdf
+* https://www.st.com/resource/en/reference_manual/rm0090-stm32f405415-stm32f407417-stm32f427437-and-stm32f429439-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
+* https://www.st.com/resource/en/data_brief/stm32f4discovery.pdf
+* https://www.st.com/content/ccc/resource/technical/layouts_and_diagrams/schematic_pack/group1/0f/91/8b/39/b3/78/4d/c4/MB997-F407VGT6-B02_Schematic/files/MB997-F407VGT6-B02_Schematic.pdf/jcr:content/translations/en.MB997-F407VGT6-B02_Schematic.pdf
