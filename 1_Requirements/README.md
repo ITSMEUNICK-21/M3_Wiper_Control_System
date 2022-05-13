@@ -23,7 +23,7 @@
 
 
 # SWOT Analysis
-![]()
+![](https://github.com/ITSMEUNICK-21/M3_Wiper_Control_System/blob/main/6_Output/Others/SWOT_Analysis_M3.jpg)
 
 # 4W's & 1H
 * **What**  : Automatic Wiper Control System using the microcontroller STM32F407VG.
