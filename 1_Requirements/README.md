@@ -26,11 +26,11 @@
 ![]()
 
 # 4W's & 1H
-* **What**  : 
-* **When**  : 
-* **Where** : 
-* **Why**   :
-* **How**   :
+* **What**  : Automatic Wiper Control System using the microcontroller STM32F407VG.
+* **When**  : When the visibility of the road is compromised due to rain, snow, dust.
+* **Where** : On the windshield of the vehicle.
+* **Why**   : To improve the visibility of the road, to prevent accidents and to ensure safe travel.
+* **How**   : By designing an embedded system controller to control the wiper arm action according to severity of conditions without human intervention.
 
 # References
 
