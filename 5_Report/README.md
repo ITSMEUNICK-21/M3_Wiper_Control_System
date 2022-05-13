@@ -38,7 +38,10 @@
 |HLR_2|LLR_01|LEDs come on in desired pattern at set frequency at 1 Hz(low speed)|Implemented|
 ||LLR_02|LEDs come on in desired pattern at set frequency at 4 Hz(medium speed)|Implemented|
 ||LLR_03|LEDs come on in desired pattern at set frequency at 8 Hz(high speed)|Implemented|               
-               
+
+## SWOT Analysis
+![](https://github.com/ITSMEUNICK-21/M3_Wiper_Control_System/blob/main/6_Output/Others/SWOT_Analysis_M3.jpg)
+
 ## Author
 
 - [@ITSMEUNICK-21](https://www.github.com/ITSMEUNICK-21)
