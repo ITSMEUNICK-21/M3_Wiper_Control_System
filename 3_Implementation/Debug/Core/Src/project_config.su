@@ -1,0 +1,4 @@
+../Core/Src/project_config.c:11:6:SystemClock_Config	88	static
+../Core/Src/project_config.c:53:6:Error_Handler	4	static,ignoring_inline_asm
+../Core/Src/project_config.c:64:6:Delay_config	24	static
+../Core/Src/project_config.c:72:6:MX_GPIO_Init	40	static
