@@ -1,1 +1,17 @@
 
+# Output
+
+## Working Video
+* Click on the image to view the complete video
+
+[![IMAGE ALT TEXT]()
+
+## Qemu Emulator Output
+![](https://github.com/ITSMEUNICK-21/M3_Wiper_Control_System/blob/main/6_Output/Others/Screenshot%20(304).jpg)
+
+
+
+
+
+
+
