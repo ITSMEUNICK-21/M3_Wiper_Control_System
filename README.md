@@ -21,6 +21,8 @@
 
 ## Working Video
 
+[![IMAGE ALT TEXT](https://github.com/ITSMEUNICK-21/M3_Wiper_Control_System/blob/main/6_Output/Others/Screenshot%20(305).png)](https://www.youtube.com/watch?v=RleJid-qUbI)
+
 ## Author
 
 - [@ITSMEUNICK-21](https://www.github.com/ITSMEUNICK-21)
