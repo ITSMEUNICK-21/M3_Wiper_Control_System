@@ -39,9 +39,21 @@
 ||LLR_02|LEDs come on in desired pattern at set frequency at 4 Hz(medium speed)|Implemented|
 ||LLR_03|LEDs come on in desired pattern at set frequency at 8 Hz(high speed)|Implemented|               
 
-# Test_Cases
+## Architecture
 
-## Overall Working System
+* Block Diagram
+
+![Block Diagram](https://github.com/ITSMEUNICK-21/M3_Wiper_Control_System/blob/main/2_Design/Block_Diagram_M3.drawio.png)
+
+* Flowchart
+
+![Flowchart](https://github.com/ITSMEUNICK-21/M3_Wiper_Control_System/blob/main/2_Design/Flowchart_M3.drawio.png)
+
+* Schematic Diagram
+
+![Schematic Diagram](https://github.com/ITSMEUNICK-21/M3_Wiper_Control_System/blob/main/2_Design/Schematic_M3.png)
+
+## Test_Cases
 
 |Test_ID|Description|Exp O/P|Actual O/P|Type of Test|
 |:--:|:--:|:--:|:--:|:--:|
