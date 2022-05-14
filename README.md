@@ -4,6 +4,10 @@
 
 ## Badges
 
+|Codacy|
+|:--:|
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b0362e09210248ce88428bc5a60eb42c)](https://www.codacy.com/gh/ITSMEUNICK-21/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ITSMEUNICK-21/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
+
 ## Folder Structure
 |Folder|Description|
 |:--:|:--:|
