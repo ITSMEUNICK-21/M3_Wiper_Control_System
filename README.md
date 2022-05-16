@@ -4,6 +4,10 @@
 
 ## Badges
 
+|Codacy|
+|:--:|
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b0362e09210248ce88428bc5a60eb42c)](https://www.codacy.com/gh/ITSMEUNICK-21/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ITSMEUNICK-21/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
+
 ## Folder Structure
 |Folder|Description|
 |:--:|:--:|
@@ -16,6 +20,8 @@
 |`6_Output`| Includes .elf file, presentation video and images|
 
 ## Working Video
+
+[![IMAGE ALT TEXT](https://github.com/ITSMEUNICK-21/M3_Wiper_Control_System/blob/main/6_Output/Others/Screenshot%20(305).png)](https://www.youtube.com/watch?v=RleJid-qUbI)
 
 ## Author
 
